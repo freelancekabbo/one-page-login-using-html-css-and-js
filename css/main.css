@@ -1,0 +1,170 @@
+ @font-face {
+    font-family: font1;
+    src: url(font/font1.woff);
+  }
+
+
+
+
+body{
+
+    background-color: #F4F5F7;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+
+}
+
+/*login page*/
+
+.main_div_login_012{
+
+    height: 270px;
+    width: 285px;
+    padding: 15px;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    background-color: #ffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+
+}
+
+.login_b_01{
+
+    font-size: 18px;
+    border: none;
+    padding: 6px;
+    border-radius: 4px;
+    outline: none;
+    border: 1px solid #1a73e8;
+    color: #1a73e8;
+    background-color: #fff;
+    width: 80px;
+    height: 35px;
+    font-family: 'font1';
+    margin-top: 20px;
+
+}
+
+.login_b_01:hover{
+
+    background-color: #1a73e8;
+    color: #fff;
+
+}
+
+#main_div_login_inp_1{
+
+    padding: 14px 16px;
+    height: 20px;
+    width: 250px;
+    outline: none;
+    border: 1px solid #dadce0;
+    border-radius: 4px;
+    font-family: 'font1';
+    font-weight: normal;
+    font-size: 20px;
+    margin-bottom: 25px;
+
+
+}
+
+
+#main_div_login_inp_2{
+
+    padding: 14px 16px;
+    height: 20px;
+    width: 250px;
+    outline: none;
+    border: 1px solid #dadce0;
+    border-radius: 4px;
+    font-family: 'font1';
+    font-weight: normal;
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+
+#login_user_c_btn_1{
+
+    height: 20px;
+    border: none;
+    font-size: 16px;
+    background: none;
+    font-family: 'font1';
+    color: #007bff;
+    outline: none;
+
+}
+
+#login_user_c_btn_1:hover{
+   
+    color: red;
+
+}
+
+#text_from_bottom_01{
+
+    margin-top: 25px;
+    font-size: 16px;
+    color: #757575;
+    font-family: sans-serif;
+
+}
+
+#text_from_bottom_02{
+
+    margin-top: 25px;
+    font-size: 16px;
+    color: #757575;
+    font-family: sans-serif;
+    display: none;
+
+}
+
+#login_form_01_s{
+   
+    display: block;
+
+}
+
+#main_div_singup_name_01{
+
+    padding: 14px 16px;
+    height: 20px;
+    width: 100px;
+    outline: none;
+    border: 1px solid #dadce0;
+    border-radius: 4px;
+    font-family: 'font1';
+    font-weight: normal;
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+
+#main_div_singup_u_name_02{
+
+    padding: 14px 16px;
+    height: 20px;
+    width: 100px;
+    outline: none;
+    border: 1px solid #dadce0;
+    border-radius: 4px;
+    font-family: 'font1';
+    font-weight: normal;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-left: 12px;
+    
+}
+
+#singup_form_02_s{
+  
+    display: none;
+
+}
+
+/*login page end */
